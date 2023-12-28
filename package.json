@@ -24,7 +24,9 @@
     "sass": "^1.62.1",
     "tailwindcss": "3.4.0",
     "typescript": "5.3.3",
-    "zustand": "^4.3.6"
+    "zustand": "^4.3.6",
+    "antd": "^5.6.1",
+    "re-resizable": "^6.9.9"
   },
   "devDependencies": {
     "typescript": "^5",
